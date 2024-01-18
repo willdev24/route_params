@@ -1,0 +1,33 @@
+[
+    {
+        "nome": "gabriel baarbosa",
+        "idade": "57",
+        "nacionalidade": "uruguio",
+        "id": "432d2b5c-e014-4ef5-a467-79e184a12672"
+    },
+    {
+        "nome": "willy thiago da silva santos",
+        "idade": "23",
+        "nacionalidade": "brasileiro NATO",
+        "id": "56d38db1-5396-420f-84cf-17870c11a400"
+    },
+    {
+        "nome": "Erick wilson da silva SANTOS",
+        "idade": "23",
+        "nacionalidade": "brasileiro ",
+        "id": "b6ec7247-49ff-470f-8edd-a16418288131",
+        "estado": "AM manaus"
+    },
+    {
+        "nome": "Gabriela Oliveira Xavier ",
+        "idade": "18",
+        "nacionalidade": "brasileira",
+        "id": "2c47ad28-157e-4459-8035-d29c55050389"
+    },
+    {
+        "nome": "loaquim ramos ",
+        "idade": "18",
+        "nacionalidade": "brasileira",
+        "id": "f3a4c676-271a-41ac-9ce9-1b5e7c56c1f2"
+    }
+]
